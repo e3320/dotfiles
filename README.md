@@ -1,1 +1,1 @@
-deps: nerd-fonts
+deps: nerd-fonts feh
