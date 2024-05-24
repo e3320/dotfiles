@@ -1,0 +1,15 @@
+[shell]
+program= "/usr/bin/fish"
+args = ["-l"]
+
+[font]
+
+normal.family = "SauceCodePro NF"
+bold.family = "SauceCodePro NF"
+italic.family = "SauceCodePro NF"
+bold_italic.family = "SauceCodePro NF"
+size = 12
+
+[window]
+
+opacity = 0.8
