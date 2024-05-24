@@ -1,1 +1,1 @@
-deps: nerdfonts
+deps: nerd-fonts
