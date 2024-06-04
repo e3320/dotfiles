@@ -181,6 +181,7 @@ bindsym $mod+Shift+F exec firefox
 bindsym $mod+Shift+P exec firefox --private-window
 bindsym XF86Launch1 exec --no-startup-id feh --bg-fill --randomize /home/lain/Pictures/wp/virginjum/*
 bindsym $mod+BackSpace exec alacritty -e lvim
+bindsym $mod+Shift+s exec maim -so | xclip -selection clipboard -t image/png
 
 
 # assign programs to specific workspaces
